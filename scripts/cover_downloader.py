@@ -1,1 +1,0 @@
-# Skript zum Herunterladen von Albumcovern
